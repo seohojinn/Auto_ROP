@@ -20,4 +20,8 @@ developer SeoHoJin (Semyeong Computer High School)
 
 2020.05.25 : 32bit rop add
 
-# 열일중!
+# 초기버전
+
+leedohyun : https://github.com/dlehgus1023/auto_rop
+
+seohojin : https://github.com/seohojinn/fuzzer

@@ -4,7 +4,7 @@ dev 2020.04.10 ~
 
 developer LeeDoHyun (Namju High School)
 
-developer seohojin (Semyeong Computer High School)
+developer SeoHoJin (Semyeong Computer High School)
 
 
 # UPDATE

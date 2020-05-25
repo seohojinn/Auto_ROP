@@ -7,7 +7,8 @@ developer LeeDoHyun (Namju High School)
 developer SeoHoJin (Semyeong Computer High School)
 
 
-# UPDATE
+# Update
+
 2020.04.12 : github commit
 
 2020.04.15 : libc_csu_init Gadget Automatic detection
@@ -20,7 +21,7 @@ developer SeoHoJin (Semyeong Computer High School)
 
 2020.05.25 : 32bit rop add
 
-# 초기버전
+# Reference
 
 leedohyun : https://github.com/dlehgus1023/auto_rop
 

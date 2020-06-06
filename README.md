@@ -9,7 +9,7 @@ developer SeoHoJin (Semyeong Computer High School)
 
 # Update
 
-2020.04.12 : github commit
+2020.04.12 : github commit (https://github.com/dlehgus1023/auto_rop)
 
 2020.04.15 : libc_csu_init Gadget Automatic detection
 

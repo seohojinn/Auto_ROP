@@ -21,6 +21,8 @@ developer SeoHoJin (Semyeong Computer High School)
 
 2020.05.25 : 32bit rop add
 
+2020.06.16 : error fix
+
 # Reference
 
 leedohyun : https://github.com/dlehgus1023/auto_rop

@@ -6,23 +6,6 @@ developer LeeDoHyun (Namju High School)
 
 developer SeoHoJin (Semyeong Computer High School)
 
-
-# Update
-
-2020.04.12 : github commit (https://github.com/dlehgus1023/auto_rop)
-
-2020.04.15 : libc_csu_init Gadget Automatic detection
-
-2020.04.16 : binary selection
-
-2020.05.15 : ROPgadget Automatic detecion
-
-2020.05.19 : Show payload (hex)
-
-2020.05.25 : 32bit rop add
-
-2020.06.16 : error fix
-
 # Reference
 
 leedohyun : https://github.com/dlehgus1023/auto_rop
